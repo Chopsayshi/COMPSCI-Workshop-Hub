@@ -2,7 +2,9 @@
 <p> List of github/other workshops you can go and try out right now. Use ctrl f to find what you might be interested in.
 Workshops from the following groups: <a href="https://linktr.ee/devsuoa">DEVS</a>, <a href="https://linktr.ee/gdgcuoa">GDGC</a>, <a href="https://go.wdcc.co.nz/">WDCC</a>
 
-Note: Workshops that have been repeated throughout the years will only show the latest version.</p>
+Note: Workshops that have been repeated throughout the years will only show the latest version. 
+
+DISCLAIMER I DO NOT OWN NOR HAVE ANY COPYRIGHT ON ANY OF THE FOLLOWING WORKSHOPS THEREFORE MAKE SURE TO NOTE THEIR RESPECTIVE COPYRIGHTS LISTED. </p>
 <h2><a href="https://linktr.ee/devsuoa">DEVS - Developers Society at UoA</a></h2>
 <!-- Will sort and label more later -->
 <ul>  
